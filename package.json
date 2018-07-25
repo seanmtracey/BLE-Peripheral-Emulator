@@ -1,0 +1,15 @@
+{
+    "name": "ble-peripheral-emulator",
+    "version": "0.0.0",
+    "description": "An application for emulating BLE peripherals on macOS / Linux",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": "https://github.com/seanmtracey/BLE-Peripheral-Emulator",
+    "author": "Sean M. Tracey",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^2.0.0"
+    }
+}
